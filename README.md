@@ -17,7 +17,7 @@
 ![alt text](https://github.com/ranjiGT/pupil-grouping-intermediate-examinations/blob/main/Sil.jpeg)
 ![alt text](https://github.com/ranjiGT/pupil-grouping-intermediate-examinations/blob/main/elbow.png)
 
-# HAC - Denrrogram (SLINK< CLINK, UPGMA)
+# HAC - Denrrogram (SLINK, CLINK, UPGMA)
 ![alt text](https://github.com/ranjiGT/pupil-grouping-intermediate-examinations/blob/main/MIN.png)
 ![alt text](https://github.com/ranjiGT/pupil-grouping-intermediate-examinations/blob/main/MAX.png)
 ![alt text](https://github.com/ranjiGT/pupil-grouping-intermediate-examinations/blob/main/AVG.png)
