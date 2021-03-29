@@ -1,4 +1,4 @@
-# pupil-grouping-intermediate-examinations
+# Pupil grouping according to the performance at two intermediate examinations
 
 # Case description
 ![CD](https://github.com/ranjiGT/pupil-grouping-intermediate-examinations/blob/main/CD.jpeg)
