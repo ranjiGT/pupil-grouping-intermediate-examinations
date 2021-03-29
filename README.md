@@ -4,6 +4,6 @@
 
 # Cluster analysis
 
-# Cluster validation (Silhouette score) 
+# Optimal clusters (Silhouette score) 
 
 # HAC - Denrrogram (SLINK< CLINK, UPGMA)
